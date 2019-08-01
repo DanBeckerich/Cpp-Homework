@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\daniel\documents\visual studio 2015\projects\numbersproject\numbersproject\main.cpp(28): warning C4018: '<': signed/unsigned mismatch
+  numbersProject.vcxproj -> c:\users\daniel\documents\visual studio 2015\Projects\numbersProject\Debug\numbersProject.exe
+  numbersProject.vcxproj -> c:\users\daniel\documents\visual studio 2015\Projects\numbersProject\Debug\numbersProject.pdb (Partial PDB)

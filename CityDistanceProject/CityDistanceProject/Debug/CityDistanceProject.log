@@ -1,0 +1,7 @@
+﻿  menu.cpp
+c:\users\daniel\source\repos\citydistanceproject\citydistanceproject\menu.cpp(9): warning C4018: '<': signed/unsigned mismatch
+c:\users\daniel\source\repos\citydistanceproject\citydistanceproject\menu.cpp(54): warning C4018: '<': signed/unsigned mismatch
+c:\users\daniel\source\repos\citydistanceproject\citydistanceproject\menu.cpp(54): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  Main.cpp
+  Generating Code...
+  CityDistanceProject.vcxproj -> C:\Users\Daniel\source\repos\CityDistanceProject\Debug\CityDistanceProject.exe

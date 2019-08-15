@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\daniel\source\repos\cs3210 assignment 7\cs3210 assignment 7\list.cpp(73): warning C4018: '<': signed/unsigned mismatch
+  node.cpp
+  list.cpp
+c:\users\daniel\source\repos\cs3210 assignment 7\cs3210 assignment 7\list.cpp(73): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  CS3210 Assignment 7.vcxproj -> C:\Users\Daniel\source\repos\CS3210 Assignment 7\Debug\CS3210 Assignment 7.exe

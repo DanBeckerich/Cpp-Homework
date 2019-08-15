@@ -1,0 +1,9 @@
+The program begins by creating an array with NUMCOUNT number of numbers in it, in the range of LOW_RANGE and HIGH_RANGE.
+
+while the numbers are created, it populates a vactor with the same dataset.
+
+the program passes the array into the bubble sort method. Bubble sort has a time complecity of O(N^2).
+
+After that, the program passes the vector to the CountSort method. 
+
+Once both of those methods are finished, it prints their contents out.

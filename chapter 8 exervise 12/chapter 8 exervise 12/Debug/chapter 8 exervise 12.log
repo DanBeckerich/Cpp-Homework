@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\daniel\source\repos\chapter 8 exervise 12\chapter 8 exervise 12\source.cpp(21): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\daniel\source\repos\chapter 8 exervise 12\chapter 8 exervise 12\dll.cpp(86): warning C4715: 'DLL::retrieve': not all control paths return a value
+  chapter 8 exervise 12.vcxproj -> C:\Users\Daniel\source\repos\chapter 8 exervise 12\Debug\chapter 8 exervise 12.exe

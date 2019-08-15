@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\daniel\source\repos\chapter 6, programming problem 8\chapter 6, programming problem 8\source.cpp(43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\daniel\source\repos\chapter 6, programming problem 8\chapter 6, programming problem 8\source.cpp(113): warning C4018: '<': signed/unsigned mismatch
+  Chapter 6, Programming Problem 8.vcxproj -> C:\Users\Daniel\source\repos\Chapter 6, Programming Problem 8\Debug\Chapter 6, Programming Problem 8.exe

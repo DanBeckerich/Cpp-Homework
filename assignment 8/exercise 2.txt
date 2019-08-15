@@ -1,0 +1,15 @@
+Start by locating the stairs.
+move to the base of the stairs. 
+for total number of stairs devided by the number of legs.
+	for each leg
+		raise the current foot until it clears the next stair;
+		move the foot overtop the stair;
+		lower the foot until it touches the stair.
+		shift weight onto the stair.
+		lift body with current leg.
+		center weight ontop of current foot
+
+this algorithm will work for any number of stairs, and any number of legs.
+		
+
+		

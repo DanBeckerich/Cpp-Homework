@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Daniel/CLionProjects/C5E5/include/infix.hpp
+
+C:/Users/Daniel/CLionProjects/C5E5/include/util.hpp
+
+C:/Users/Daniel/CLionProjects/C5E5/main.cpp
+iostream
+-
+stack
+-
+string
+-
+sstream
+-
+cmath
+-
+include/infix.hpp
+C:/Users/Daniel/CLionProjects/C5E5/include/infix.hpp
+include/util.hpp
+C:/Users/Daniel/CLionProjects/C5E5/include/util.hpp
+
